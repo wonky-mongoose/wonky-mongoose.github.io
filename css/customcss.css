@@ -1,0 +1,25 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+html {
+  font-family: Montserrat, Avenir, sans-serif;
+}
+
+.logotitle {
+  letter-spacing: 12px;
+  text-transform: uppercase;
+}
+
+.subtitle {
+  font-size: 30px;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 1px;
+  line-height: 180%;
+}
+
+.paragraphbox {
+  font-size: 18px;
+  font-weight: 400;
+  text-align: left;
+  letter-spacing: ;
+  line-height: 180%;
+}
