@@ -24,10 +24,17 @@ html {
 
 .teammember {
   font-size: 15px;
-  font-weight: 400;
+  font-weight: 700;
   line-height: 180%;
   text-align: center;
   text-transform: uppercase;
+}
+
+.teambox {
+  font-size: 15px;
+  font-weight: 400;
+  text-align: left;
+  line-height: 200%;
 }
 
 .imagesize {
